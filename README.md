@@ -110,14 +110,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb,express,angular,nodejs" alt="MEAN Stack" height="40"/>
 </div>
 
-<div align="center">
-  <h3>✨ Animation Libraries</h3>
-  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
-  <img src="https://img.shields.io/badge/Lottie-00C3FF?style=for-the-badge&logo=lottie&logoColor=white" alt="Lottie" />
-  <img src="https://img.shields.io/badge/Anime.js-FF6347?style=for-the-badge&logo=anime&logoColor=white" alt="Anime.js" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-</div>
+ 
 
 ---
 
@@ -145,8 +138,7 @@
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+ 
   <!-- Add your real social links above -->
 </p>
 
