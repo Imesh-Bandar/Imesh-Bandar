@@ -13,6 +13,18 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Web+Developer;MERN+%26+MEAN+Stack+Developer;Passionate+Learner" alt="Typing SVG" /></a>
 </p>
 
+<div align="center">
+  <a href="https://github.com/Imesh-Bandar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=hotjar&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
 ---
 
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40px"> About Me
@@ -23,65 +35,93 @@
 - 🏅 Diploma in IT with Distinction, <b>ICBT</b>
 - 🌱 Completed <b>Responsive Web Application</b> course from FreeCodeCamp
 - 🌱 Completed <b>PHP</b> course from SoloLearn
+- 📚 Currently pursuing advanced <b>Java</b> programming course
 - 🌍 Passionate about building powerful web applications and learning new tech
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Imesh-Bandar&theme=tokyonight&row=1&column=6&margin-w=15" alt="Trophy" />
+</div>
 
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> Tech Stack
 
-### Languages & Frameworks
+<details open>
+<summary><b>Languages</b></summary>
+<br>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" alt="HTML5" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" alt="CSS3" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" alt="Angular" title="Angular"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" title="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" title="Python"/>
-  
+</p>
+</details>
 
-### Databases
+<details open>
+<summary><b>Frameworks & Libraries</b></summary>
+<br>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" alt="Angular" title="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="Tailwind CSS" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js" title="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" title="Bootstrap"/>
+</p>
+</details>
+
+<details open>
+<summary><b>Databases</b></summary>
+<br>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" title="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" title="Firebase"/>
 </p>
+</details>
 
-### Tools
+<details open>
+<summary><b>Tools & Version Control</b></summary>
+<br>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" title="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="40" alt="WebStorm" title="WebStorm"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman" title="Postman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" title="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" title="Docker"/>
 </p>
+</details>
 
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Modern Frameworks, Libraries & Animation
 
-<p align="center">
+<div align="center">
+  <h3>🔥 Tech Stacks</h3>
   <!-- MERN -->
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" alt="MERN Stack" height="40"/>
   &nbsp;&nbsp;
   <!-- MEAN -->
   <img src="https://skillicons.dev/icons?i=mongodb,express,angular,nodejs" alt="MEAN Stack" height="40"/>
-</p>
+</div>
+
+<div align="center">
+  <h3>✨ Animation Libraries</h3>
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Lottie-00C3FF?style=for-the-badge&logo=lottie&logoColor=white" alt="Lottie" />
+  <img src="https://img.shields.io/badge/Anime.js-FF6347?style=for-the-badge&logo=anime&logoColor=white" alt="Anime.js" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+</div>
+
+---
 
  
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> What I Love
-
-- ✨ Creating seamless user experiences with modern frontend frameworks
-- 🏗️ Architecting robust backend solutions
-- 🎨 Implementing interactive, attractive animations (Framer Motion, GSAP, Lottie, Anime.js, Three.js and more)
-- 💾 Working with both SQL & NoSQL databases
-- 🚀 Exploring new technologies, tools, and best practices
-
----
 
 ## <img src="https://media.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif" width="30px"> GitHub Stats
 
@@ -94,6 +134,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imesh-Bandar&theme=tokyonight" alt="GitHub Streak" width="70%"/>
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Imesh-Bandar&theme=tokyonight" width="70%"/>
+</div>
+
 ---
 
 ## <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="30px"> Connect with Me
@@ -101,8 +145,12 @@
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <!-- Add your real LinkedIn/email above -->
+  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <!-- Add your real social links above -->
 </p>
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=120&section=footer" width="100%" alt="Footer"/>
@@ -110,5 +158,5 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Imesh-Bandar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile visitors" />
-  <p><i>Last updated: 2025-07-06</i></p>
+  <p><i>Last updated: 2025-07-06 12:29:51</i></p>
 </div>
