@@ -4,7 +4,7 @@
   <br/>
 
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=4facfe&center=true&vCenter=true&width=500&lines=Solving+Complex+Problems;Full+Stack+Developer;MERN+%26+MEAN+Expert;Scalable+Java+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=4facfe&center=true&vCenter=true&width=500&lines=Solving+Complex+Problems;Full+Stack+Developer;MERN+%26+MEAN+Expert;Scalable+Systems" alt="Typing SVG" />
   </p>
 
   <p align="center">
