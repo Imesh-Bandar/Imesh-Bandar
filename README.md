@@ -19,7 +19,7 @@
       <h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJ0ZXZ5cndjZ2c3Z3Z5Ynd5Z3B5Z3B5Z3B5Z3B5Z3B5Z3B5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpLd2NGvpaiys/giphy.gif" width="25px"> The Engineer</h3>
       <p>🚀 <b>Trainee Software Engineer</b> at Synergy Information System, Sri Lanka</p>
       <p>🎓 <b>BSc (Hons) IT</b> Undergraduate at SLIIT (Specialised)</p>
-      <p>📜 Professional Development at <b>University of Moratuwa</b></p>
+      <p>📜 Professional Development Course at <b>University of Moratuwa</b></p>
       <p>🏅 Diploma in IT with <b>Distinction</b> (ICBT)</p>
     </td>
     <td width="45%" valign="top">
