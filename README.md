@@ -72,5 +72,5 @@
       <td><b>System Status:</b> 🟢 Active</td>
     </tr>
   </table>
-  <p align="center"><i>"Code is poetry, written with precision."</i></p>
+  
 </div>
