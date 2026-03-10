@@ -1,76 +1,245 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0052D4&height=240&section=header&text=Imesh%20Bandara&fontSize=75&fontAlignY=35&animation=twinkling&desc=SOFTWARE%20ENGINEER&descAlignY=55&descSize=20" width="100%" />
+
+  <!-- ══════════════════════════════════════════════════════════════ -->
+  <!-- HERO BANNER -->
+  <!-- ══════════════════════════════════════════════════════════════ -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0052D4&height=280&section=header&text=Imesh%20Bandara&fontSize=80&fontAlignY=32&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18&descColor=8892b0" width="100%" />
+
+  <!-- TYPING ANIMATION -->
   <br/>
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=4facfe&center=true&vCenter=true&width=500&lines=Solving+Complex+Problems;Full+Stack+Developer;MERN+%26+MEAN+Expert;Scalable+Systems" alt="Typing SVG" />
-  </p>
-  <p align="center">
-    <a href="https://linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:imesh.fsd.info@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/Imesh-Bandar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  </p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=%3E+Building+scalable+systems+that+matter;%3E+MERN+%7C+MEAN+%7C+Laravel+%7C+Microservices" alt="Typing SVG" />
+  </a>
+
+  <!-- SOCIAL BADGES -->
+  <br/><br/>
+  <a href="https://linkedin.com/in/YOUR_PROFILE">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  </a>&nbsp;
+  <a href="mailto:imesh.fsd.info@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+  </a>&nbsp;
+  <a href="https://github.com/Imesh-Bandar">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+  </a>&nbsp;
+  <a href="https://YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/-Portfolio-4FC3F7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=4FC3F7" />
+  </a>
+
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Imesh-Bandar&label=Profile+Views&color=0052D4&style=flat-square&abbreviated=true" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Imesh-Bandar?label=Followers&style=flat-square&color=0052D4&labelColor=0d1117" />
 </div>
+ 
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ABOUT ME -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+ 
 
 <br/>
 
-<table align="center" width="100%">
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+
+```yaml
+name: Imesh Bandara
+role: Trainee Software Engineer @ Synergy Information System
+location: Sri Lanka 🇱🇰
+education:
+  - degree: "BSc (Hons) in Information Technology"
+    university: "SLIIT (Sri Lanka Institute of Information Technology)"
+    status: "Undergraduate — Specialization"
+  - course: "Professional Development Course"
+    university: "University of Moratuwa"
+  - diploma: "Diploma in IT — Distinction"
+    institute: "ICBT Campus"
+
+currently_working_on: "Responsive Web Architectures & Scalable Systems"
+currently_learning: "Advanced Java | Laravel | Microservices Architecture"
+goal: "Building high-performance applications for a global audience"
+fun_fact: "I debug with coffee ☕ and deploy with confidence 🚀"
+```
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- TECH STACK — OFFICIAL LOGO GRID -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;Tech Stack & Tools
+
+<br/>
+
+<div align="center">
+
+<!-- ─── Languages ─── -->
+<h4>🧑‍💻 Languages</h4>
+<table>
   <tr>
-    <td width="55%" valign="top">
-      <h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJ0ZXZ5cndjZ2c3Z3Z5Ynd5Z3B5Z3B5Z3B5Z3B5Z3B5Z3B5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpLd2NGvpaiys/giphy.gif" width="25px"> The Engineer</h3>
-      <p>🚀 <b>Trainee Software Engineer</b> at Synergy Information System, Sri Lanka</p>
-      <p>🎓 <b>BSc (Hons) IT</b> Undergraduate at SLIIT (Specialised)</p>
-      <p>📜 Professional Development Course at <b>University of Moratuwa</b></p>
-      <p>🏅 Diploma in IT with <b>Distinction</b> (ICBT)</p>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br><b>JavaScript</b>
     </td>
-    <td width="45%" valign="top">
-      <h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTh4Z3Z5Z3B5Z3B5Z3B5Z3B5Z3B5Z3B5Z3B5Z3B5Z3B5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QAh4Qh2P4c7Q4/giphy.gif" width="25px"> Current Sprint</h3>
-      <p>🌱 <b>Learning:</b> Advanced Java Programming</p>
-      <p>🛠️ <b>Focus:</b> Responsive Web Architectures</p>
-      <p>📚 <b>Studying:</b> Laravel & Microservices</p>
-      <p>🌍 <b>Goal:</b> Building high-performance global apps</p>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br><b>TypeScript</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+      <br><b>Java</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br><b>Python</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP" />
+      <br><b>PHP</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5" />
+      <br><b>HTML5</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3" />
+      <br><b>CSS3</b>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<div align="center">
-  <h3>─── 🛠️ Core Tech Ecosystem ───</h3>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=js,java,php,py,react,angular,nodejs,express,tailwind,bootstrap,mongodb,mysql,postgres,firebase,docker,git,vscode,figma&perline=9" />
+<!-- ─── Frameworks & Libraries ─── -->
+<h4>⚡ Frameworks & Libraries</h4>
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br><b>React</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js" />
+      <br><b>Next.js</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=angular" width="50" height="50" alt="Angular" />
+      <br><b>Angular</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
+      <br><b>Node.js</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express" />
+      <br><b>Express</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=laravel" width="50" height="50" alt="Laravel" />
+      <br><b>Laravel</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind" />
+      <br><b>Tailwind</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap" />
+      <br><b>Bootstrap</b>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ─── Databases & Cloud ─── -->
+<h4>🗄️ Databases & Cloud</h4>
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
+      <br><b>MongoDB</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <br><b>MySQL</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" />
+      <br><b>PostgreSQL</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" alt="Firebase" />
+      <br><b>Firebase</b>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ─── DevOps & Tools ─── -->
+<h4>🛠️ DevOps & Tools</h4>
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <br><b>Docker</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
+      <br><b>Git</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br><b>GitHub</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="Postman" />
+      <br><b>Postman</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" />
+      <br><b>VS Code</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="Figma" />
+      <br><b>Figma</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Linux" />
+      <br><b>Linux</b>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <br/>
 
-<!-- <div align="center">
-  <h3>─── 📈 Engineering Metrics ───</h3>
-  <table align="center" border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Imesh-Bandar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4facfe&icon_color=4facfe" height="180px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imesh-Bandar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4facfe" height="180px" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imesh-Bandar&theme=tokyonight&hide_border=true&background=0D1117&stroke=4facfe&ring=4facfe&fire=4facfe" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div> -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- GITHUB STATS -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &nbsp;GitHub Analytics
+
+<div align="center">
+ 
+ 
+</div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0052D4&height=35&section=footer" width="100%" />
-  <br/>
-  <table>
-    <tr>
-      <td><img src="https://komarev.com/ghpvc/?username=Imesh-Bandar&label=DASHBOARD+VIEWS&color=0052D4&style=flat-square" /></td>
-      <td><b>System Status:</b> 🟢 Active</td>
-    </tr>
-  </table>
-  
+ 
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Imesh-Bandar&bg_color=0D1117&color=4FC3F7&line=4FC3F7&point=ffffff&area=true&area_color=4FC3F7&hide_border=true&custom_title=Contribution%20Graph" />
+</div>
+
+<br/>
+
+ 
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0052D4&height=120&section=footer" width="100%" />
+
 </div>
