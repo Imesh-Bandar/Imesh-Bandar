@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-label="What I do: Full stack apps, system design, monitoring and analytics, design to code">
+<title>What I Do</title>
+<defs>
+  <linearGradient id="bgS" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#070B14"/><stop offset="1" stop-color="#0D1424"/>
+  </linearGradient>
+  <linearGradient id="brandS" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#4FC3F7"/><stop offset=".55" stop-color="#2F6BFF"/><stop offset="1" stop-color="#8B5CF6"/>
+  </linearGradient>
+  <linearGradient id="strokeS" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#4FC3F7" stop-opacity=".9"/><stop offset=".5" stop-color="#2F6BFF" stop-opacity=".25"/><stop offset="1" stop-color="#8B5CF6" stop-opacity=".8"/>
+  </linearGradient>
+  <pattern id="dotsS" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1.1" fill="#ffffff" fill-opacity=".07"/>
+  </pattern>
+  <filter id="blurS" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+  <filter id="glowS" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<g transform="translate(0 0)">
+    
+    <rect x=".5" y=".5" width="281" height="209" rx="18" fill="url(#bgS)" stroke="url(#strokeS)"/>
+    <rect x="26" y="0" width="60" height="3" rx="1.5" fill="url(#brandS)"/>
+    <rect x="26" y="28" width="52" height="52" rx="14" fill="#4FC3F7" fill-opacity=".09" stroke="#4FC3F7" stroke-opacity=".3"/>
+    <g transform="translate(52 54)"><circle r="15" fill="none" stroke="#4FC3F7" stroke-width="2.2"/><ellipse rx="6.5" ry="15" fill="none" stroke="#4FC3F7" stroke-width="2.2"/><line x1="-15" x2="15" stroke="#4FC3F7" stroke-width="2.2"/></g>
+    <text x="26" y="116" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="700" fill="#E6EDF3">Full Stack Apps</text>
+    <text y="146" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#8B949E"><tspan x="26" dy="0">End-to-end web apps with</tspan><tspan x="26" dy="22">MERN, MEAN &amp; Laravel — clean</tspan><tspan x="26" dy="22">REST APIs and secure auth.</tspan></text>
+  </g><g transform="translate(306 0)">
+    
+    <rect x=".5" y=".5" width="281" height="209" rx="18" fill="url(#bgS)" stroke="url(#strokeS)"/>
+    <rect x="26" y="0" width="60" height="3" rx="1.5" fill="url(#brandS)"/>
+    <rect x="26" y="28" width="52" height="52" rx="14" fill="#4FC3F7" fill-opacity=".09" stroke="#4FC3F7" stroke-opacity=".3"/>
+    <g transform="translate(52 54)"><g stroke="#4FC3F7" stroke-width="2.2" fill="none"><line x1="0" y1="-10" x2="-12" y2="10"/><line x1="0" y1="-10" x2="12" y2="10"/><line x1="-12" y1="10" x2="12" y2="10"/></g><g fill="#0B1020" stroke="#4FC3F7" stroke-width="2.2"><circle cy="-10" r="5"/><circle cx="-12" cy="10" r="5"/><circle cx="12" cy="10" r="5"/></g></g>
+    <text x="26" y="116" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="700" fill="#E6EDF3">System Design</text>
+    <text y="146" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#8B949E"><tspan x="26" dy="0">Modular backends and</tspan><tspan x="26" dy="22">microservices, containerised</tspan><tspan x="26" dy="22">with Docker, built to scale.</tspan></text>
+  </g><g transform="translate(612 0)">
+    
+    <rect x=".5" y=".5" width="281" height="209" rx="18" fill="url(#bgS)" stroke="url(#strokeS)"/>
+    <rect x="26" y="0" width="60" height="3" rx="1.5" fill="url(#brandS)"/>
+    <rect x="26" y="28" width="52" height="52" rx="14" fill="#4FC3F7" fill-opacity=".09" stroke="#4FC3F7" stroke-opacity=".3"/>
+    <g transform="translate(52 54)"><g fill="#4FC3F7"><rect x="-14" y="2" width="6" height="12" rx="1.5"/><rect x="-3" y="-6" width="6" height="20" rx="1.5"/><rect x="8" y="-14" width="6" height="28" rx="1.5"/></g></g>
+    <text x="26" y="116" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="700" fill="#E6EDF3">Monitoring &amp; Analytics</text>
+    <text y="146" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#8B949E"><tspan x="26" dy="0">Log, syslog &amp; NetFlow</tspan><tspan x="26" dy="22">analyzers and reporting</tspan><tspan x="26" dy="22">dashboards in production.</tspan></text>
+  </g><g transform="translate(918 0)">
+    
+    <rect x=".5" y=".5" width="281" height="209" rx="18" fill="url(#bgS)" stroke="url(#strokeS)"/>
+    <rect x="26" y="0" width="60" height="3" rx="1.5" fill="url(#brandS)"/>
+    <rect x="26" y="28" width="52" height="52" rx="14" fill="#4FC3F7" fill-opacity=".09" stroke="#4FC3F7" stroke-opacity=".3"/>
+    <g transform="translate(52 54)"><g fill="none" stroke="#4FC3F7" stroke-width="2.2"><rect x="-15" y="-12" width="30" height="24" rx="4"/><line x1="-15" y1="-4" x2="15" y2="-4"/><line x1="-5" y1="-4" x2="-5" y2="12"/></g></g>
+    <text x="26" y="116" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="700" fill="#E6EDF3">Design to Code</text>
+    <text y="146" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#8B949E"><tspan x="26" dy="0">Pixel-perfect Figma → React,</tspan><tspan x="26" dy="22">Next.js &amp; Tailwind UIs that</tspan><tspan x="26" dy="22">feel great to use.</tspan></text>
+  </g>
+</svg>
