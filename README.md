@@ -30,8 +30,11 @@
   <img src="https://komarev.com/ghpvc/?username=Imesh-Bandar&label=Profile+Views&color=0052D4&style=flat-square&abbreviated=true" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/Imesh-Bandar?label=Followers&style=flat-square&color=0052D4&labelColor=0d1117" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/Imesh-Bandar?affiliations=OWNER&label=Stars&style=flat-square&color=0052D4&labelColor=0d1117" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-4FC3F7?style=flat-square&labelColor=0d1117" />
 </div>
- 
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!-- ABOUT ME -->
@@ -61,6 +64,33 @@ currently_learning: "Advanced Java | Laravel | Microservices Architecture"
 goal: "Building high-performance applications for a global audience"
 fun_fact: "I debug with coffee ☕ and deploy with confidence 🚀"
 ```
+
+<br/>
+
+## 🚀 &nbsp;What I Do
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Full Stack Web Development</h3>
+      <p>End-to-end web apps with <b>MERN</b>, <b>MEAN</b> and <b>Laravel</b> — clean REST APIs, secure auth and responsive, accessible UIs.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 Scalable System Design</h3>
+      <p>Designing <b>microservices</b> and modular backends that are easy to test, deploy with <b>Docker</b> and scale with traffic.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Monitoring & Analytics Tools</h3>
+      <p>Building log, syslog and NetFlow analyzers, reporting dashboards and data-driven tooling in production at work.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 UI/UX to Code</h3>
+      <p>Turning <b>Figma</b> designs into pixel-perfect components with <b>React</b>, <b>Next.js</b> and <b>Tailwind CSS</b>.</p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -217,26 +247,144 @@ fun_fact: "I debug with coffee ☕ and deploy with confidence 🚀"
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
+<!-- FEATURED PROJECTS -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🏗️ &nbsp;Featured Projects
+
+<div align="center">
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Imesh-Bandar/The-NextStep-Platform">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Imesh-Bandar&repo=The-NextStep-Platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Imesh-Bandar/Tourvana">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Imesh-Bandar&repo=Tourvana&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Imesh-Bandar/Advance-Authentication-System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Imesh-Bandar&repo=Advance-Authentication-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Imesh-Bandar/-SmartNotes-MERN">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Imesh-Bandar&repo=-SmartNotes-MERN&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Imesh-Bandar/React-Employe-Management-System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Imesh-Bandar&repo=React-Employe-Management-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Imesh-Bandar/ORBIT">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Imesh-Bandar&repo=ORBIT&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<a href="https://github.com/Imesh-Bandar?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Repositories-0d1117?style=for-the-badge&logo=github&logoColor=4FC3F7" />
+</a>
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
 <!-- GITHUB STATS -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &nbsp;GitHub Analytics
 
 <div align="center">
- 
- 
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Imesh-Bandar&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imesh-Bandar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7" />
+
+  <br/>
+
+  <img width="70%" src="https://streak-stats.demolab.com?user=Imesh-Bandar&theme=tokyonight&hide_border=true&background=0D1117&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7" />
+
 </div>
 
 <br/>
 
 <div align="center">
- 
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Imesh-Bandar&bg_color=0D1117&color=4FC3F7&line=4FC3F7&point=ffffff&area=true&area_color=4FC3F7&hide_border=true&custom_title=Contribution%20Graph" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Imesh-Bandar&bg_color=0D1117&color=4FC3F7&line=4FC3F7&point=ffffff&area=true&area_color=4FC3F7&hide_border=true&custom_title=Contribution%20Graph" />
 </div>
 
 <br/>
 
- 
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- TROPHIES -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🏆 &nbsp;GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Imesh-Bandar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- CONTRIBUTION SNAKE (generated by .github/workflows/snake.yml) -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🐍 &nbsp;Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Imesh-Bandar/Imesh-Bandar/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Imesh-Bandar/Imesh-Bandar/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Imesh-Bandar/Imesh-Bandar/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- QUOTE + CONNECT -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 💬 &nbsp;Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<br/>
+
+## 🤝 &nbsp;Let's Connect
+
+<div align="center">
+
+**I'm always open to collaborating on interesting projects, internships and open-source work.**
+<br/>
+Feel free to reach out — I usually reply within a day. ⚡
+
+<br/>
+
+<a href="mailto:imesh.fsd.info@gmail.com">
+  <img src="https://img.shields.io/badge/Say%20Hello-imesh.fsd.info%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<i>⭐ If you like my work, consider starring a repo — it keeps me motivated!</i>
+
+</div>
+
+<br/>
 
 <div align="center">
 
